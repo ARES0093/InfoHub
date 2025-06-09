@@ -25,12 +25,6 @@ A smart, friendly chatbot that keeps you updated with the **latest news** or giv
 
 ---
 
-## 🌐 Live Demo (Optional)
-
-> 💡 Add your Hugging Face or Streamlit sharing URL here if deployed.
-
----
-
 ## 🧠 Tech Stack
 
 | Layer       | Technology          |
