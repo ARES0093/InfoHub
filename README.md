@@ -37,10 +37,3 @@ A smart, friendly chatbot that keeps you updated with the **latest news** or giv
 
 ---
 
-## 🚀 Getting Started
-
-### 📥 Clone the Repo
-
-```bash
-git clone https://github.com/your-username/ai-news-guide-bot.git
-cd ai-news-guide-bot
