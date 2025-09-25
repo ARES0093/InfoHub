@@ -136,6 +136,8 @@ With the setup complete, start the application by running the following command 
 python app.py
 ```
 
+---
+
 ## 10 . Future Improvements 💡
 InfoHub is a powerful tool, but it can be made even better. Here are some potential enhancements:
 
